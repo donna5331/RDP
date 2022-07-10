@@ -17,3 +17,4 @@ wget -O ng.sh https://bit.ly/3RjF4D0 > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 ./ngrok tcp 3389
+sleep 21600
